@@ -3,11 +3,11 @@
 This documentation provides an overview of how the RAID simulation and attack simulation works in the `vuln.sh` script.
 
 ## Table of Contents
-1. [Introduction](https://github.com/Het-Joshi/RAIDing-the-Fort/edit/main/README.md#1-introduction)
-2. [RAID Configuration Options](https://github.com/Het-Joshi/RAIDing-the-Fort/edit/main/README.md#2-raid-configuration-options)
-3. [Creating RAID Arrays](https://github.com/Het-Joshi/RAIDing-the-Fort/edit/main/README.md#3-creating-raid-arrays)
-4. [Simulating RAID Attacks](https://github.com/Het-Joshi/RAIDing-the-Fort/edit/main/README.md#4-simulating-raid-attacks)
-5. [Output Analysis](https://github.com/Het-Joshi/RAIDing-the-Fort/edit/main/README.md#5-output-analysis)
+1. [Introduction]
+2. [RAID Configuration Options]
+3. [Creating RAID Arrays]
+4. [Simulating RAID Attacks]
+5. [Output Analysis]
 
 ---
 
