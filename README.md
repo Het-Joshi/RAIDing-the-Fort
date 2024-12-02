@@ -1,6 +1,6 @@
 # RAIDing-the-Fort
 
-This documentation provides an overview of how the RAID simulation and attack simulation works in the `vuln.sh` script.
+This documentation provides an overview of how the RAID simulation and attack simulation works in the `RaidVuln.sh` script.
 
 ## Table of Contents
 1. [Introduction]
